@@ -50,78 +50,66 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
 
-- name: R
-  icon: "skills/r-project-icon"
-  icon_pack: custom
+# - name: R
+#   icon: "skills/r-project-icon"
+#   icon_pack: custom
   
-- name: Python
-  icon: "skills/python-5"
-  icon_pack: custom
+# - name: Python
+#   icon: "skills/python-5"
+#   icon_pack: custom
   
-- name: Analytics
-  icon: chart-line
-  icon_pack: fas
+# - name: Analytics
+#   icon: chart-line
+#   icon_pack: fas
   
-- name: "Django"
-  icon: "skills/djangoproject-icon"
-  icon_pack: "custom"
+# - name: "Django"
+#   icon: "skills/djangoproject-icon"
+#   icon_pack: "custom"
   
-- name: "STATA"
-  icon: "skills/stata1"
-  icon_pack: "custom"
+# - name: "STATA"
+#   icon: "skills/stata1"
+#   icon_pack: "custom"
   
-- name: Natural Language Processing
-  icon: language
-  icon_pack: fas
+# - name: Natural Language Processing
+#   icon: language
+#   icon_pack: fas
   
-- name: SQL
-  icon: database
-  icon_pack: fas
+# - name: SQL
+#   icon: database
+#   icon_pack: fas
 
-- name: PyTorch
-  icon: "skills/pytorch"
-  icon_pack: "custom"
+# - name: PyTorch
+#   icon: "skills/pytorch"
+#   icon_pack: "custom"
   
-- name: Keras
-  icon: "skills/keras"
-  icon_pack: "custom"
+# - name: Keras
+#   icon: "skills/keras"
+#   icon_pack: "custom"
   
-  # - name: Technical
-  #   items:
-  #     - name: Python
-  #       description: ''
-  #       percent: 80
-  #       icon: python
-  #       icon_pack: fab
-  #     - name: Data Science
-  #       description: ''
-  #       percent: 100
-  #       icon: chart-line
-  #       icon_pack: fas
-  #     - name: SQL
-  #       description: ''
-  #       percent: 40
-  #       icon: database
-  #       icon_pack: fas
-  # - name: Hobbies
-  #   color: '#eeac02'
-  #   color_border: '#f0bf23'
-  #   items:
-  #     - name: Hiking
-  #       description: ''
-  #       percent: 60
-  #       icon: person-hiking
-  #       icon_pack: fas
-  #     - name: Cats
-  #       description: ''
-  #       percent: 100
-  #       icon: cat
-  #       icon_pack: fas
-  #     - name: Photography
-  #       description: ''
-  #       percent: 80
-  #       icon: camera-retro
-  #       icon_pack: fas
+  - name: Technical
+    items:
+      - name: Python
+        icon: "skills/python-5"
+        icon_pack: custom
+      - name: Data Science
+        icon: chart-line
+        icon_pack: fas
+      - name: SQL
+        icon: database
+        icon_pack: fas
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        icon: person-hiking
+        icon_pack: fas
+      - name: Cats
+        icon: cat
+        icon_pack: fas
+      - name: Photography
+        icon: camera-retro
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
