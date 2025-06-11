@@ -97,19 +97,6 @@ skills:
       - name: SQL
         icon: database
         icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        icon: camera-retro
-        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
