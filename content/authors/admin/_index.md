@@ -150,5 +150,8 @@ social:
 
 ---
 
-Kien Trang received the B.Eng. and M.Eng. degrees in electrical engineering from International University, Vietnam National University Ho Chi Minh City, in 2018 and 2020, respectively. He is currently pursuing the Ph.D. degree with the School of Information Technology, Monash University. He was a Researcher with the School of Electrical Engineering, International University, until 2023. His research interests include computer vision and deep learning in medical analysis.
+Kien Trang received the B.Eng. and M.Eng. degrees in electrical engineering from [International University, Vietnam National University Ho Chi Minh City](https://hcmiu.edu.vn/en/), in 2018 and 2020, respectively. He is currently pursuing the Ph.D. degree with the School of Information Technology, [Monash University](https://www.monash.edu/). He was a Researcher with the School of Electrical Engineering, [International University](https://hcmiu.edu.vn/en/), until 2023. His research interests include computer vision and deep learning in medical analysis.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}} resumé {{< /staticref >}}.
+
 {style="text-align: justify;"}
