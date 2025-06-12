@@ -44,21 +44,21 @@ sections:
       username: admin
   - block: skills
     content:
-      - name: Skills
-        subtitle: My technical skills and core competencies
-        layout: icon  # 🔥 This is the key to switch to grid layout
-        items:
-          - name: Python
-            icon: "skills/python-5"
-            icon_pack: custom
-            description: ""
-            weight: 1
+      title: Experience
 
-          - name: R
-            icon: "skills/r-project-icon"
-            icon_pack: custom
-            description: ""
-            weight: 2
+      # - name: Skills
+      #   subtitle: My technical skills and core competencies
+      #   layout: icon  # 🔥 This is the key to switch to grid layout
+      items:
+        - name: Python
+          icon: "skills/python-5"
+          icon_pack: custom
+          weight: 1
+
+        - name: R
+          icon: "skills/r-project-icon"
+          icon_pack: custom
+          weight: 2
     design:
       columns: '2'
   - block: experience
