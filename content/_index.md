@@ -49,10 +49,20 @@ sections:
       title: Skills
       username: admin
       items:
-          - name: R / R shiny
-            description: 90%
-            icon: "skills/r-project-icon"
+          - name: Python
+            icon: "skills/python-5"
             icon_pack: custom
+            weight: 1
+
+          - name: Matlab
+            icon: "skills/Matlab"
+            icon_pack: custom
+            weight: 2
+
+          - name: Analytics
+            icon: chart-line
+            icon_pack: fas
+
     design:
       columns: "1"
 
