@@ -47,8 +47,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        <br>
-
+        My technical skills and core competencies
         <table>
           <tr>
             <td align="center">
