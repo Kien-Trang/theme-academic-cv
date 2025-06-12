@@ -47,7 +47,7 @@ header:
 
 footer:
   copyright:
-    notice: 'Copyright© {year} Kien Trang''
+    notice: 'Copyright© {year} Kien Trang'
     license:
       enable: true
       allow_derivatives: false
