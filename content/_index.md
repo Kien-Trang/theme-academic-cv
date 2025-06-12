@@ -42,14 +42,19 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: markdown
+  - block: features
+    id : skills
     content:
+      text: ""
       title: Skills
-      subtitle: ''
-      text: |-
-        {{< gallery album="skills" >}}
+      username: admin
+      items:
+          - name: R / R shiny
+            description: 90%
+            icon: "skills/r-project-icon"
+            icon_pack: custom
     design:
-      columns: '1'
+      columns: "1"
 
   - block: experience
     content:
