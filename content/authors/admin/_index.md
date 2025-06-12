@@ -37,17 +37,50 @@ interests:
   - Computer Vision
 
 # Education to show in About widget
+# education:
+#   courses:
+#     - course: PhD Candidate
+#       institution: Monash University
+#       year: 
+#     - course: MEng Electronics Engineering
+#       institution: International University - VNU HCMC
+#       year: 2020
+#     - course: BEng Electrical Engineering
+#       institution: International University - VNU HCMC
+#       year: 2018
+
 education:
-  courses:
-    - course: PhD Candidate
-      institution: Monash University
-      year: 
-    - course: MEng Electronics Engineering
-      institution: International University - VNU HCMC
-      year: 2020
-    - course: BEng Electrical Engineering
-      institution: International University - VNU HCMC
-      year: 2018
+  - area: PhD Candidate
+    institution: Monash University
+    date_start: 2023-01-01
+    date_end: 2026-12-31
+    summary: |
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    button:
+      text: 'Read Thesis'
+      url: 'https://example.com'
+  - area: MEng Electronics Engineering
+    institution: International University - VNU HCMC
+    date_start: 2018-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.8/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - area: BEng Electrical Engineering
+    institution: International University - VNU HCMC
+    date_start: 2013-01-01
+    date_end: 2018-12-31
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -123,7 +156,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'kien.trang@monash.edu'
+    link: 'mailto:kien.trang@monash.edu'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/KienTrang
