@@ -128,7 +128,7 @@ sections:
           company_url: 'https://hcmiu.edu.vn/en/'
           company_logo: Hcmiu-logo
           location: 
-          date_start: '2018-9-01'
+          date_start: '2018-09-01'
           date_end: '2020-10-30'
           description: |2-
               GPA: 3.8/4.0
@@ -143,8 +143,8 @@ sections:
           company_url: 'https://hcmiu.edu.vn/en/'
           company_logo: Hcmiu-logo
           location: 
-          date_start: '2013-9-01'
-          date_end: '2018-1-15'
+          date_start: '2013-09-01'
+          date_end: '2018-01-15'
           description: |2-
               GPA: 3.8/4.0
 
