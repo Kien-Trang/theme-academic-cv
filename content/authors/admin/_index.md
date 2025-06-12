@@ -51,13 +51,19 @@ education:
 skills:
   - name: Skills
     subtitle: My technical skills and core competencies
-    layout: icon # use "icon" instead of "bar" to get grid view
+    layout: icon  # 🔥 This is the key to switch to grid layout
     items:
+      - name: Python
+        icon: "skills/python-5"
+        icon_pack: custom
+        description: ""
+        weight: 1
+
       - name: R
         icon: "skills/r-project-icon"
         icon_pack: custom
         description: ""
-        weight: 1
+        weight: 2
         
 # - name: R
 #   icon: "skills/r-project-icon"
