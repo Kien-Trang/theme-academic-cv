@@ -47,11 +47,62 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        <br>
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        <table>
+          <tr>
+            <td align="center">
+              <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png" width="48" alt="R"/>
+              </a>
+              <br>R
+            </td>
+            <td align="center">
+              <a href="https://www.python.org" target="_blank" rel="noreferrer">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/640px-Python-logo-notext.svg.png" width="48" alt="Python"/>
+              </a>
+              <br>Python
+            </td>
+            <td align="center">
+              <a href="#" target="_blank" rel="noreferrer">
+                <img src="https://i.imgur.com/34GgC58.png" width="48" alt="Analytics"/>
+              </a>
+              <br>Analytics
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+                <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" alt="Django"/>
+              </a>
+              <br>Django
+            </td>
+            <td align="center">
+              <a href="https://www.stata.com/" target="_blank" rel="noreferrer">
+                <img src="https://i.imgur.com/kfl6cAF.png" width="48" alt="STATA"/>
+              </a>
+              <br>STATA
+            </td>
+            <td align="center">
+              <a href="#" target="_blank" rel="noreferrer">
+                <img src="https://i.imgur.com/O3Y0dIy.png" width="48" alt="Natural Language Processing"/>
+              </a>
+              <br>Natural Language Processing
+            </td>
+          </tr>
+          <tr>
+            <td align="center">
+              <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" alt="SQL"/>
+              </a>
+              <br>SQL
+            </td>
+            <td align="center">
+              <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg.png" width="48" alt="PyTorch"/>
+              </a>
+              <br>PyTorch
+            </td>
     design:
       columns: '1'
 
