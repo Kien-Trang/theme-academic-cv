@@ -74,8 +74,8 @@ sections:
             icon_pack: custom
             weight: 5
           
-          - name: Medical Image Process
-            icon: "skills/medical-image"
+          - name: Medical Image Processing
+            icon: "skills/medical-image2"
             icon_pack: custom
             weight: 6
 
