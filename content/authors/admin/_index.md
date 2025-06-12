@@ -25,7 +25,7 @@ role: Researcher Phd Candidate
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Monash University
-    url: https://www.monash.edu//
+    url: https://www.monash.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Artificial Intelligence, Medical Imaging Analysis, and Computer Vision.
@@ -39,15 +39,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD Candidate
+      institution: Monash University
+      year: 
+    - course: MEng Electronics Engineering
+      institution: International University - VNU HCMC
+      year: 2020
+    - course: BEng Electrical Engineering
+      institution: International University - VNU HCMC
+      year: 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -148,8 +148,6 @@ social:
   #   icon_pack: ai
   #   link: uploads/resume.pdf
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
 ---
 
 Kien Trang received the B.Eng. and M.Eng. degrees in electrical engineering from International University, Vietnam National University Ho Chi Minh City, in 2018 and 2020, respectively. He is currently pursuing the Ph.D. degree with the School of Information Technology, Monash University. He was a Researcher with the School of Electrical Engineering, International University, until 2023. His research interests include computer vision and deep learning in medical analysis.
