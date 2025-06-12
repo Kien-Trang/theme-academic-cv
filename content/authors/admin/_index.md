@@ -49,7 +49,16 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-
+  - name: Skills
+    subtitle: My technical skills and core competencies
+    layout: icon # use "icon" instead of "bar" to get grid view
+    items:
+      - name: R
+        icon: "skills/r-project-icon"
+        icon_pack: custom
+        description: ""
+        weight: 1
+        
 # - name: R
 #   icon: "skills/r-project-icon"
 #   icon_pack: custom
@@ -86,17 +95,17 @@ skills:
 #   icon: "skills/keras"
 #   icon_pack: "custom"
   
-  - name: Technical
-    items:
-      - name: Python
-        icon: "skills/python-5"
-        icon_pack: custom
-      - name: Data Science
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        icon: database
-        icon_pack: fas
+  # - name: Technical
+  #   items:
+  #     - name: Python
+  #       icon: "skills/python-5"
+  #       icon_pack: custom
+  #     - name: Data Science
+  #       icon: chart-line
+  #       icon_pack: fas
+  #     - name: SQL
+  #       icon: database
+  #       icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
