@@ -58,10 +58,41 @@ sections:
             icon: "skills/Matlab"
             icon_pack: custom
             weight: 2
+          
+          - name: C/C++
+            icon: "skills/c-logo"
+            icon_pack: custom
+            weight: 3
 
-          - name: Analytics
-            icon: chart-line
+          - name: SQL
+            icon: database
             icon_pack: fas
+            weight: 4
+
+          - name: Data Analysis
+            icon: "skills/data-analysis"
+            icon_pack: custom
+            weight: 5
+          
+          - name: Medical Image Process
+            icon: "skills/medical-image"
+            icon_pack: custom
+            weight: 6
+
+          - name: OpenCV
+            icon: "skills/open-cv"
+            icon_pack: custom
+            weight: 7
+          
+          - name: PyTorch
+            icon: "skills/pytorch"
+            icon_pack: "custom"
+            weight: 8
+            
+          - name: Keras
+            icon: "skills/keras"
+            icon_pack: "custom"
+            weight: 9
 
     design:
       columns: "1"
