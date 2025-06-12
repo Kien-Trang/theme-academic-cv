@@ -99,6 +99,65 @@ sections:
 
   - block: experience
     content:
+      title: Education
+      # Date format for experience
+      #   Refer to https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: PhD Candidate
+          company: Monash University
+          company_url: 'https://www.monash.edu/'
+          company_logo: Monash-logo
+          location: 
+          date_start: '2023-08-01'
+          date_end: ''
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
+        
+        - title: MEng Electronics Engineering
+          company: International University - VNU HCMC
+          company_url: 'https://hcmiu.edu.vn/en/'
+          company_logo: Hcmiu-logo
+          location: 
+          date_start: '2018-9-01'
+          date_end: '2020-10-30'
+          description: |2-
+              GPA: 3.8/4.0
+
+              Courses included:
+              - lorem ipsum dolor sit amet, consectetur adipiscing elit
+              - lorem ipsum dolor sit amet, consectetur adipiscing elit
+              - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+        - title: BEng Electronics Engineering
+          company: International University - VNU HCMC
+          company_url: 'https://hcmiu.edu.vn/en/'
+          company_logo: Hcmiu-logo
+          location: 
+          date_start: '2013-9-01'
+          date_end: '2018-1-15'
+          description: |2-
+              GPA: 3.8/4.0
+
+              Courses included:
+              - lorem ipsum dolor sit amet, consectetur adipiscing elit
+              - lorem ipsum dolor sit amet, consectetur adipiscing elit
+              - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+    design:
+      columns: '2'
+
+  - block: experience
+    content:
       title: Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
@@ -132,6 +191,7 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
+
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
