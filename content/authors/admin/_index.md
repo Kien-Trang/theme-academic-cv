@@ -1,37 +1,40 @@
 ---
 # Display name
-title: 吳健雄
+title: Kien Trang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Kien
+last_name: Trang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Researcher Phd Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Monash University
+    url: https://www.monash.edu//
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Artificial Intelligence, Medical Imaging Analysis, and Computer Vision.
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Medical Imaging Analysis
+  - Computer Vision
 
 # Education to show in About widget
 education:
@@ -65,41 +68,41 @@ skills:
         description: ""
         weight: 2
         
-# - name: R
-#   icon: "skills/r-project-icon"
-#   icon_pack: custom
-  
-# - name: Python
-#   icon: "skills/python-5"
-#   icon_pack: custom
-  
-# - name: Analytics
-#   icon: chart-line
-#   icon_pack: fas
-  
-# - name: "Django"
-#   icon: "skills/djangoproject-icon"
-#   icon_pack: "custom"
-  
-# - name: "STATA"
-#   icon: "skills/stata1"
-#   icon_pack: "custom"
-  
-# - name: Natural Language Processing
-#   icon: language
-#   icon_pack: fas
-  
-# - name: SQL
-#   icon: database
-#   icon_pack: fas
+      - name: R
+        icon: "skills/r-project-icon"
+        icon_pack: custom
+        
+      - name: Python
+        icon: "skills/python-5"
+        icon_pack: custom
+        
+      - name: Analytics
+        icon: chart-line
+        icon_pack: fas
+        
+      - name: "Django"
+        icon: "skills/djangoproject-icon"
+        icon_pack: "custom"
+        
+      - name: "STATA"
+        icon: "skills/stata1"
+        icon_pack: "custom"
+        
+      - name: Natural Language Processing
+        icon: language
+        icon_pack: fas
+        
+      - name: SQL
+        icon: database
+        icon_pack: fas
 
-# - name: PyTorch
-#   icon: "skills/pytorch"
-#   icon_pack: "custom"
-  
-# - name: Keras
-#   icon: "skills/keras"
-#   icon_pack: "custom"
+      - name: PyTorch
+        icon: "skills/pytorch"
+        icon_pack: "custom"
+        
+      - name: Keras
+        icon: "skills/keras"
+        icon_pack: "custom"
   
   # - name: Technical
   #   items:
@@ -120,32 +123,34 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/KienTrang
+    link: 'kien.trang@monash.edu'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/KienTrang
     # label: Follow me on Twitter
     # display:
     #   header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=L97unocAAAAJ&hl=en
+
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Kien-Trang/
+
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/kien-trang-104895288/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kien Trang received the B.Eng. and M.Eng. degrees in electrical engineering from International University, Vietnam National University Ho Chi Minh City, in 2018 and 2020, respectively. He is currently pursuing the Ph.D. degree with the School of Information Technology, Monash University. He was a Researcher with the School of Electrical Engineering, International University, until 2023. His research interests include computer vision and deep learning in medical analysis.
 {style="text-align: justify;"}
