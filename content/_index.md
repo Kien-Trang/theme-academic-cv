@@ -42,9 +42,9 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
+  - block: markdown
     content:
-      title: Experience
+      title: Skills
 
       # - name: Skills
       #   subtitle: My technical skills and core competencies
