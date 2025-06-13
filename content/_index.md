@@ -138,7 +138,7 @@ sections:
               - lorem ipsum dolor sit amet, consectetur adipiscing elit
               - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-        - title: BEng Electronics Engineering
+        - title: BEng Electrical Engineering
           company: International University - VNU HCMC
           company_url: 'https://hcmiu.edu.vn/en/'
           company_logo: Hcmiu-logo
@@ -195,7 +195,8 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      # title: 'Accomplish&shy;ments'
+      title: Courses and Certifications
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -205,32 +206,46 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/MYPW8FK578DB
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          date_start: '2024-01-06'
+          description: |2-
+            Skills include:
+
+              * Explore the roles of business intelligence (BI) professionals within an organization
+              * Design data visualizations that answer business questions
+              * Practice data modeling and extract, transform, load (ETL) processes that meet organizational goals 
+              * Create dashboards that effectively communicate data insights to stakeholders
+          icon: google
+          organization: Google
+          organization_url: https://grow.google/certificates/business-intelligence/
+          title: Google Business Intelligence Specialization
           url: ''
-        - certificate_url: https://www.edx.org
+        
+        - certificate_url: https://www.coursera.org/account/accomplishments/specialization/certificate/7KGK7J4CLQYG
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          date_start: '2023-08-14'
+          description: |2-
+            Skills include:
+
+              * Gain an immersive understanding of the practices and processes 
+              * Clean and organize data for analysis, and complete analysis and calculations using spreadsheets and SQL
+              * Achieve key analytical skills and tools 
+              * Visualize and present data findings in dashboards, presentations and commonly used visualization platforms
+          icon: google
+          organization: Google
+          organization_url: https://grow.google/certificates/data-analytics/
+          title: Google Data Analytics Specialization
+          url: ''
+        
+        - certificate_url: https://www.udemy.com/certificate/UC-2cff7bd1-a796-4b48-aeff-fdfc5cce7959/
+          date_end: ''
+          date_start: '2021-11-15'
+          description: 'Learn NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Scipy and develop Machine Learning Models in Python'
+          icon: udemy
+          organization: Udemy
+          organization_url: https://www.udemy.com/course/data-science-machine-learning-a-z-hands-on-python/
+          title: 'Machine Learning & Data Science A-Z: Hands-on Python'
           url: ''
     design:
       columns: '2'
