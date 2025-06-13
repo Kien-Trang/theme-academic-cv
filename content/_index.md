@@ -216,8 +216,7 @@ sections:
               * Design data visualizations that answer business questions
               * Practice data modeling and extract, transform, load (ETL) processes that meet organizational goals 
               * Create dashboards that effectively communicate data insights to stakeholders
-          icon: "brands/google-logo"
-          icon_pack: custom
+          icon: google
           organization: Google
           organization_url: https://grow.google/certificates/business-intelligence/
           title: Google Business Intelligence Specialization
@@ -233,8 +232,7 @@ sections:
               * Clean and organize data for analysis, and complete analysis and calculations using spreadsheets and SQL
               * Achieve key analytical skills and tools 
               * Visualize and present data findings in dashboards, presentations and commonly used visualization platforms
-          icon: "brands/google-logo"
-          icon_pack: custom
+          icon: google
           organization: Google
           organization_url: https://grow.google/certificates/data-analytics/
           title: Google Data Analytics Specialization
@@ -244,12 +242,31 @@ sections:
           date_end: ''
           date_start: '2021-11-15'
           description: 'Learn NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Scipy and develop Machine Learning Models in Python'
-          icon: "brands/udemy-logo"
-          icon_pack: custom
+          icon: udemy
           organization: Udemy
           organization_url: https://www.udemy.com/course/data-science-machine-learning-a-z-hands-on-python/
           title: 'Machine Learning & Data Science A-Z: Hands-on Python'
           url: ''
+
+        - certificate_url: https://1drv.ms/b/s!AvBsqbZp0K6GgTNW15jY28b6aD5l?e=c3Yuj0
+          date_end: ''
+          date_start: '2016-10-26'
+          description: |2-
+            Skills include:
+
+              * Theory of Basic CMOS Structure
+              * Apply CMOS to design basic gates in digital circuit
+              * ASIC Design Flow
+              * Verilog HDL language (behavioral level, RTL level and gate level)
+              * Apply Verilog to describe digital designs
+              * Build simulation environment and verify designs matching to requirements
+              * Design a basic IP Core and build simulation environment with using Simulator tools running in Linux OS
+          icon: icdrec
+          organization: ICDREC
+          organization_url: 
+          title: 'Elementary IC Design'
+          url: ''
+
     design:
       columns: '2'
   - block: collection
