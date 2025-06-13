@@ -124,7 +124,7 @@ sections:
               * Deploying
         
         - title: MEng Electronics Engineering
-          company: International University - VNU HCMC
+          company: International University - Vietnam National University Ho Chi Minh City (VNU)
           company_url: 'https://hcmiu.edu.vn/en/'
           company_logo: Hcmiu-logo
           location: 
@@ -139,7 +139,7 @@ sections:
               - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
         - title: BEng Electrical Engineering
-          company: International University - VNU HCMC
+          company: International University - Vietnam National University Ho Chi Minh City (VNU)
           company_url: 'https://hcmiu.edu.vn/en/'
           company_logo: Hcmiu-logo
           location: 
@@ -262,13 +262,71 @@ sections:
               * Build simulation environment and verify designs matching to requirements
               * Design a basic IP Core and build simulation environment with using Simulator tools running in Linux OS
           icon: icdrec
-          organization: ICDREC
+          organization: Integrated Circuit Design Research and Education Center (ICDREC)
           organization_url: 
           title: 'Elementary IC Design'
           url: ''
 
     design:
       columns: '2'
+    
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      # title: 'Accomplish&shy;ments'
+      title: Awards
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: https://1drv.ms/b/s!AvBsqbZp0K6GgTqCQSc965Ntx6FF?e=xLTkUU
+          date_end: ''
+          date_start: '2022-06-18'
+          description: ''
+          icon: ieee
+          organization: IEEE International Conference on Cybernetics and Computational Intelligence
+          organization_url: https://ieeexplore.ieee.org/xpl/conhome/9865234/proceeding
+          title: Best Presenter in 2022 IEEE International Conference on Cybernetics and Computational Intelligence track Artificial Intelligence
+          url: ''
+        
+        - certificate_url: https://1drv.ms/b/s!AvBsqbZp0K6GgTn-lbywN6IAggSS?e=vjNmAp
+          date_end: ''
+          date_start: '2020-10-15'
+          description: ''
+          icon: hcmiu
+          organization: International University - Vietnam National University Ho Chi Minh City
+          organization_url: https://hcmiu.edu.vn/en/
+          title: Special Award for Excellent Scientific Publications Graduate Program
+          url: ''
+        
+        - certificate_url: https://1drv.ms/b/s!AvBsqbZp0K6GgTyJ_Fn1JR2Hzvsd?e=pbap6y
+          date_end: ''
+          date_start: '2020-01-15'
+          description: ''
+          icon: ponychung
+          organization: Pony Chung Foundation
+          organization_url: http://www.ponychung.org/
+          title: Pony Chung Foundation Scholarship 2019 – 2020
+          url: ''
+
+        - certificate_url: https://1drv.ms/b/s!AvBsqbZp0K6GgTvx2yn50s_e3V-R?e=xXzGgX
+          date_end: ''
+          date_start: '2018-09-01'
+          description: ''
+          icon: hcmiu
+          organization: International University - Vietnam National University Ho Chi Minh City
+          organization_url: https://hcmiu.edu.vn/en/
+          title: Scholarship Award for Entrance Exam in Master Program
+          url: ''
+        
+    design:
+      columns: '1'
+
   - block: collection
     id: posts
     content:
