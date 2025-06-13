@@ -216,7 +216,8 @@ sections:
               * Design data visualizations that answer business questions
               * Practice data modeling and extract, transform, load (ETL) processes that meet organizational goals 
               * Create dashboards that effectively communicate data insights to stakeholders
-          icon: google
+          icon: "brands/google-logo"
+          icon_pack: custom
           organization: Google
           organization_url: https://grow.google/certificates/business-intelligence/
           title: Google Business Intelligence Specialization
@@ -232,7 +233,8 @@ sections:
               * Clean and organize data for analysis, and complete analysis and calculations using spreadsheets and SQL
               * Achieve key analytical skills and tools 
               * Visualize and present data findings in dashboards, presentations and commonly used visualization platforms
-          icon: google
+          icon: "brands/google-logo"
+          icon_pack: custom
           organization: Google
           organization_url: https://grow.google/certificates/data-analytics/
           title: Google Data Analytics Specialization
@@ -242,7 +244,8 @@ sections:
           date_end: ''
           date_start: '2021-11-15'
           description: 'Learn NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Scipy and develop Machine Learning Models in Python'
-          icon: udemy
+          icon: "brands/udemy-logo"
+          icon_pack: custom
           organization: Udemy
           organization_url: https://www.udemy.com/course/data-science-machine-learning-a-z-hands-on-python/
           title: 'Machine Learning & Data Science A-Z: Hands-on Python'
