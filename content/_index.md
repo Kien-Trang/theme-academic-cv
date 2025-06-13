@@ -270,7 +270,7 @@ sections:
     design:
       columns: '2'
     
-  - block: accomplishments
+  - block: resume-awards
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       # title: 'Accomplish&shy;ments'
@@ -291,7 +291,17 @@ sections:
           icon: ieee
           organization: IEEE International Conference on Cybernetics and Computational Intelligence
           organization_url: https://ieeexplore.ieee.org/xpl/conhome/9865234/proceeding
-          title: Best Presenter in 2022 IEEE International Conference on Cybernetics and Computational Intelligence track Artificial Intelligence
+          title: Best Presenter in 2022 IEEE International Conference on Cybernetics and Computational Intelligence - track Artificial Intelligence
+          url: ''
+        
+        - certificate_url: https://1drv.ms/b/s!AvBsqbZp0K6GgT3DJxQ4k3ns_Hgn?e=9dz2dS
+          date_end: ''
+          date_start: '2021-04-06'
+          description: ''
+          icon: springer
+          organization: The 11th International Conference on Robotics, Vision, Signal Processing and Power Applications (RoViSP)
+          organization_url: https://link.springer.com/book/10.1007/978-981-16-8129-5
+          title: Best Paper in the 11th International Conference on Robotics, Vision, Signal Processing and Power Applications - track Vision, Image and Signal Processing
           url: ''
         
         - certificate_url: https://1drv.ms/b/s!AvBsqbZp0K6GgTn-lbywN6IAggSS?e=vjNmAp
