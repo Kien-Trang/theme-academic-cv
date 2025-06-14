@@ -10,7 +10,7 @@ date:
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-01-01T00:00:00Z"
+publishDate: "2024"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -31,9 +31,12 @@ tags:
 featured: false
 
 links:
+- name: "DOI"
+  url: "https://ieeexplore.ieee.org/document/10738815"
+
 - name: "Paper"
   url: "https://ieeexplore.ieee.org/document/10738815"
-url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10738815
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
