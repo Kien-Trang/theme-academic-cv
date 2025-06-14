@@ -205,7 +205,7 @@ sections:
           company_url: 'https://www.shinhands.com.vn/en'
           company_logo: shinhan-logo
           location: 
-          date_start: '2018-6-25'
+          date_start: '2018-06-25'
           date_end: '2018-10-01'
           description: 
         
