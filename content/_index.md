@@ -214,7 +214,7 @@ sections:
           company_url: 'https://fptsoftware.com/'
           company_logo: fpt-logo
           location: 
-          date_start: '2017-06-1'
+          date_start: '2017-06-01'
           date_end: '2017-08-15'
           description: 
 
