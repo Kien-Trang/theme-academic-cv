@@ -319,7 +319,7 @@ sections:
           date_start: '2020-01-15'
           description: ''
           icon: ponychung
-          organization: Pony Chung Foundation
+          organization: Pony Chung Foundation - Hyundai Development Company (HDC)
           organization_url: http://www.ponychung.org/
           title: Pony Chung Foundation Scholarship 2019 – 2020
           url: ''
