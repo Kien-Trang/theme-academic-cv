@@ -1,5 +1,5 @@
 ---
-title: "Node-Based Graph Convolutional Network With SLIC Method for Breast Cancer Ultrasound Images Classificatione"
+title: "Node-Based Graph Convolutional Network With SLIC Method for Breast Cancer Ultrasound Images Classification"
 authors:
 - admin
 - Fung Ting Ting
@@ -10,7 +10,7 @@ date:
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,7 +18,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Access, (12)*"
+publication: "*IEEE Access, (12)*, pp. 171036-171054, 2024"
 publication_short: ""
 
 abstract: This research presents a novel node-based Graph Convolutional Network (GCN) approach for the classification of breast cancer from ultrasound images. Utilizing the Simple Linear Iterative Clustering (SLIC) algorithm, superpixels are segmented and treated as nodes and connected based on color similarity and spatial proximity. This enables the graph data capturing both long-range and short-range dependencies among image features. The graph-structured data is processed through a multi-layer GCN, which effectively aggregates and learns from complex node interrelations to classify the nodes as benign, malignant, or normal. In the final stage, a voting rule is applied to the node classification in order to perform the final image-level classification. Overall, the proposed framework yielded impressive findings on two distinct datasets, Breast Ultrasound Images Dataset (BUSI) and Breast Ultrasound Image dataset from Brazil (BUSBRA). Different numbers of connections between nodes are evaluated to indicate the importance of hidden insight interconnections in the medical imaging domain. The results give an accuracy of 98.73% for the BUSI dataset and 98.40% in the case of the BUSBRA dataset, indicating superior performance compared to conventional and other advanced methodologies. This highlights the potential of employing node-based GCNs for breast cancer detection using ultrasound imagery in clinical applications.
