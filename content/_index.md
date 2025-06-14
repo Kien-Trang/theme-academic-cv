@@ -168,12 +168,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Researcher Phd Candidate
+          company: Monash University
+          company_url: 'https://www.monash.edu/'
+          company_logo: Monash-logo
+          location: 
+          date_start: '2023-08-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -181,14 +181,44 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+
+        - title: Researcher
+          company: International University - Vietnam National University Ho Chi Minh City (VNU)
+          company_url: 'https://hcmiu.edu.vn/en/'
+          company_logo: Hcmiu-logo
+          location: 
+          date_start: '2021-03-01'
+          date_end: 
+          description: Taught electronic engineering and researched on Image and Signal Processing
+
+        - title: Teaching Assistant
+          company: International University - Vietnam National University Ho Chi Minh City (VNU)
+          company_url: 'https://hcmiu.edu.vn/en/'
+          company_logo: Hcmiu-logo
+          location: 
+          date_start: '2018-10-01'
+          date_end: '2021-03-01'
+          description: Taught electronic engineering and researched on Image and Signal Processing
+
+        - title: Software Developer
+          company: Shinhan DS Vietnam
+          company_url: 'https://www.shinhands.com.vn/en'
+          company_logo: shinhan-logo
+          location: 
+          date_start: '2018-6-25'
+          date_end: '2018-10-01'
+          description: 
+        
+        - title: Internship Trainee in FPT Global Automotive Department
+          company: FPT Software
+          company_url: 'https://fptsoftware.com/'
+          company_logo: fpt-logo
+          location: 
+          date_start: '2017-06-1'
+          date_end: '2017-08-15'
+          description: 
+
+
     design:
       columns: '2'
 

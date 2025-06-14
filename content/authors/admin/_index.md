@@ -35,11 +35,12 @@ interests:
   - Artificial Intelligence
   - Medical Imaging Analysis
   - Computer Vision
+  - Image Processing
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD Candidate
+    - course: PhD Candidate in Computer Science
       institution: Monash University
       year: 
     - course: MEng Electronics Engineering
