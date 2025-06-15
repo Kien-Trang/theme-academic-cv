@@ -149,12 +149,12 @@ sections:
 
               **Academic Focus:**  Throughout the undergraduate program, I pursued a curriculum with main emphasis on digital signal processing (DSP), image processing, and embedded systems. The coursework included foundational and advanced areas such as linear systems, digital filters, filtering techniques for signal and image, and basic implementation on small scale hardware. 
 
-              **Senior Design Project** – "*Design and Implementation of a Face Detection and Tracking System on FPGA*": As a capstone project, my project focused on the real-time detection of human faces using hardware-accelerated image processing techniques. The system was implemented on a Xilinx FPGA platform using VHDL. This project involved:
-              - Designing image processing pipelines using hardware description languages (HDL), particularly Verilog.
-              - Applying skin color algorithm with filtering techniques to detect facial regions in streaming input data.
-              - Integrating camera input modules, I/O blocks, and display controllers for real-time verification, enabling deployment on a Altera DE2-115 FPGA board.
+              # **Senior Design Project** – "*Design and Implementation of a Face Detection and Tracking System on FPGA*": As a capstone project, my project focused on the real-time detection of human faces using hardware-accelerated image processing techniques. This project involved:
+              # - Designing image processing pipelines using hardware description languages (HDL), particularly Verilog.
+              # - Applying skin color algorithm with filtering techniques to detect facial regions in streaming input data.
+              # - Integrating camera input modules, I/O blocks, and display controllers for real-time verification, enabling deployment on a Altera DE2-115 FPGA board.
 
-              **Undergraduate Thesis** – "Design a Facial Expression Classification Program": Investigated the automatic classification of human facial expressions using handcrafted features and traditional machine learning technique. This thesis involved:
+              **Undergraduate Thesis** – "Design a Facial Expression Classification Program": Investigated the automatic classification of human facial expressions using handcrafted features and traditional machine learning techniques. This thesis involved:
               - Employing existing dataset and self-collected dataset. Dataset preparation and annotation for expressions for self-collected dataset
               - Feature extraction using geometric and texture-based descriptors (including Haar cascade features, Histogram of Oriented Gradients (HOG) and Scale-Invariant Feature Transform (SIFT)).
               - Implementation and comparative evaluation of classification algorithms (including k-Nearest Neighbors (k-NN) and Support Vector Machines (SVM))
